@@ -1,0 +1,89 @@
+# depslib dependency file v1.0
+1652892843 source:c:\users\user\onedrive\desktop\demo2\gallery.cpp
+	"Gallery.h"
+	"SDL_utils.h"
+	<SDL_image.h>
+
+1652892843 c:\users\user\onedrive\desktop\demo2\gallery.h
+	<vector>
+	<string>
+	<SDL.h>
+
+1652667875 c:\users\user\onedrive\desktop\demo2\sdl_utils.h
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+
+1652944139 source:c:\users\user\onedrive\desktop\demo2\game.cpp
+	<vector>
+	<cassert>
+	<cstdlib>
+	<iostream>
+	"Game.h"
+
+1652942957 c:\users\user\onedrive\desktop\demo2\game.h
+	"Snake.h"
+	"Position.h"
+
+1652942957 c:\users\user\onedrive\desktop\demo2\snake.h
+	<queue>
+	<vector>
+	"Position.h"
+
+1652636157 c:\users\user\onedrive\desktop\demo2\position.h
+
+1653054759 source:c:\users\user\onedrive\desktop\demo2\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<cmath>
+	<chrono>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<SDL_mixer.h>
+	"SDL_utils.h"
+	"Game.h"
+	"Gallery.h"
+	"TextObject.h"
+
+1652667875 source:c:\users\user\onedrive\desktop\demo2\sdl_utils.cpp
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+
+1652942957 source:c:\users\user\onedrive\desktop\demo2\snake.cpp
+	"Snake.h"
+	"Game.h"
+	<iostream>
+
+1652379633 source:c:\users\user\onedrive\desktop\demo2\textobject.cpp
+	"TextObject.h"
+	<iostream>
+	<SDL.h>
+	<SDL_ttf.h>
+
+1652379466 c:\users\user\onedrive\desktop\demo2\textobject.h
+	<SDL.h>
+	<SDL_ttf.h>
+	<iostream>
+
+1652252805 c:\users\user\onedrive\desktop\demo2\baseobject.h
+	"Common_Function.h"
+
+1652252964 c:\users\user\onedrive\desktop\demo2\common_function.h
+	<Windows.h>
+	<string>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+
+1652252805 source:c:\users\user\onedrive\desktop\demo2\baseobject.cpp
+	"BaseObject.h"
+
+1652454086 source:c:\users\user\onedrive\desktop\demo2\button.cpp
+
+1652457255 c:\users\user\onedrive\desktop\demo2\mouse.h
+	<iostream>
+	<SDL.h>
+
